@@ -1,0 +1,80 @@
+2024-09-20T12:25:14+00:00 CRITICAL Uncaught RuntimeException: Помилка при збереженні дії: Помилка бази даних. in C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php:118
+Stack trace:
+#0 C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php(62): ActionScheduler_DBStore->save_action_to_db()
+#1 C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(244): ActionScheduler_DBStore->save_action()
+#2 C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(114): ActionScheduler_ActionFactory->store()
+#3 C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\packages\action-scheduler\functions.php(81): ActionScheduler_ActionFactory->single_unique()
+#4 C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce-payments\vendor\woocommerce\subscriptions-core\includes\privacy\class-wcs-privacy-background-updater.php(48): as_schedule_single_action()
+#5 C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce-payments\vendor\woocommerce\subscriptions-core\includes\privacy\class-wcs-privacy.php(84): WCS_Privacy_Background_Updater->schedule_ended_subscription_anonymization()
+#6 C:\OSPanel\domains\accounts-rental\wp-includes\class-wp-hook.php(308): WCS_Privacy->queue_cleanup_personal_data()
+#7 C:\OSPanel\domains\accounts-rental\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#8 C:\OSPanel\domains\accounts-rental\wp-includes\plugin.php(565): WP_Hook->do_action()
+#9 C:\OSPanel\domains\accounts-rental\wp-cron.php(188): do_action_ref_array()
+#10 {main}
+  thrown у C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php доступно 118
+
+2024-09-20T12:37:04+00:00 CRITICAL Uncaught RuntimeException: Помилка при збереженні дії: Помилка бази даних. in C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php:118
+Stack trace:
+#0 C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php(62): ActionScheduler_DBStore->save_action_to_db()
+#1 C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(244): ActionScheduler_DBStore->save_action()
+#2 C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(114): ActionScheduler_ActionFactory->store()
+#3 C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\packages\action-scheduler\functions.php(81): ActionScheduler_ActionFactory->single_unique()
+#4 C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce-payments\vendor\woocommerce\subscriptions-core\includes\privacy\class-wcs-privacy-background-updater.php(48): as_schedule_single_action()
+#5 C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce-payments\vendor\woocommerce\subscriptions-core\includes\privacy\class-wcs-privacy.php(84): WCS_Privacy_Background_Updater->schedule_ended_subscription_anonymization()
+#6 C:\OSPanel\domains\accounts-rental\wp-includes\class-wp-hook.php(308): WCS_Privacy->queue_cleanup_personal_data()
+#7 C:\OSPanel\domains\accounts-rental\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters()
+#8 C:\OSPanel\domains\accounts-rental\wp-includes\plugin.php(565): WP_Hook->do_action()
+#9 C:\OSPanel\domains\accounts-rental\wp-cron.php(188): do_action_ref_array()
+#10 {main}
+  thrown у C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php доступно 118
+
+2024-09-20T13:28:33+00:00 CRITICAL Uncaught RuntimeException: Помилка при збереженні дії: Помилка бази даних. in C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php:118
+Stack trace:
+#0 C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php(62): ActionScheduler_DBStore->save_action_to_db()
+#1 C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(244): ActionScheduler_DBStore->save_action()
+#2 C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(114): ActionScheduler_ActionFactory->store()
+#3 C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\packages\action-scheduler\functions.php(81): ActionScheduler_ActionFactory->single_unique()
+#4 C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\includes\queue\class-wc-action-queue.php(44): as_schedule_single_action()
+#5 C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(137): WC_Action_Queue->schedule_single()
+#6 C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(100): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->maybe_schedule_update()
+#7 C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-product.php(1438): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->on_product_changed()
+#8 C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\includes\admin\meta-boxes\class-wc-meta-box-product-data.php(441): WC_Product->save()
+#9 C:\OSPanel\domains\accounts-rental\wp-includes\class-wp-hook.php(324): WC_Meta_Box_Product_Data::save()
+#10 C:\OSPanel\domains\accounts-rental\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 C:\OSPanel\domains\accounts-rental\wp-includes\plugin.php(517): WP_Hook->do_action()
+#12 C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-meta-boxes.php(268): do_action()
+#13 C:\OSPanel\domains\accounts-rental\wp-includes\class-wp-hook.php(326): WC_Admin_Meta_Boxes->save_meta_boxes()
+#14 C:\OSPanel\domains\accounts-rental\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#15 C:\OSPanel\domains\accounts-rental\wp-includes\plugin.php(517): WP_Hook->do_action()
+#16 C:\OSPanel\domains\accounts-rental\wp-includes\post.php(4891): do_action()
+#17 C:\OSPanel\domains\accounts-rental\wp-includes\post.php(4993): wp_insert_post()
+#18 C:\OSPanel\domains\accounts-rental\wp-admin\includes\post.php(453): wp_update_post()
+#19 C:\OSPanel\domains\accounts-rental\wp-admin\post.php(227): edit_post()
+#20 {main}
+  thrown у C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php доступно 118
+
+2024-09-20T13:31:25+00:00 CRITICAL Uncaught RuntimeException: Помилка при збереженні дії: Помилка бази даних. in C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php:118
+Stack trace:
+#0 C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php(62): ActionScheduler_DBStore->save_action_to_db()
+#1 C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(244): ActionScheduler_DBStore->save_action()
+#2 C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\packages\action-scheduler\classes\ActionScheduler_ActionFactory.php(114): ActionScheduler_ActionFactory->store()
+#3 C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\packages\action-scheduler\functions.php(81): ActionScheduler_ActionFactory->single_unique()
+#4 C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\includes\queue\class-wc-action-queue.php(44): as_schedule_single_action()
+#5 C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(137): WC_Action_Queue->schedule_single()
+#6 C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\src\Internal\ProductAttributesLookup\LookupDataStore.php(100): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->maybe_schedule_update()
+#7 C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-product.php(1438): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->on_product_changed()
+#8 C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\includes\admin\meta-boxes\class-wc-meta-box-product-data.php(441): WC_Product->save()
+#9 C:\OSPanel\domains\accounts-rental\wp-includes\class-wp-hook.php(324): WC_Meta_Box_Product_Data::save()
+#10 C:\OSPanel\domains\accounts-rental\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 C:\OSPanel\domains\accounts-rental\wp-includes\plugin.php(517): WP_Hook->do_action()
+#12 C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-meta-boxes.php(268): do_action()
+#13 C:\OSPanel\domains\accounts-rental\wp-includes\class-wp-hook.php(326): WC_Admin_Meta_Boxes->save_meta_boxes()
+#14 C:\OSPanel\domains\accounts-rental\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters()
+#15 C:\OSPanel\domains\accounts-rental\wp-includes\plugin.php(517): WP_Hook->do_action()
+#16 C:\OSPanel\domains\accounts-rental\wp-includes\post.php(4891): do_action()
+#17 C:\OSPanel\domains\accounts-rental\wp-includes\post.php(4993): wp_insert_post()
+#18 C:\OSPanel\domains\accounts-rental\wp-admin\includes\post.php(453): wp_update_post()
+#19 C:\OSPanel\domains\accounts-rental\wp-admin\post.php(227): edit_post()
+#20 {main}
+  thrown у C:\OSPanel\domains\accounts-rental\wp-content\plugins\woocommerce\packages\action-scheduler\classes\data-stores\ActionScheduler_DBStore.php доступно 118
+

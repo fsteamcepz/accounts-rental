@@ -1,0 +1,516 @@
+# Translation of Themes - SpaBiz in Ukrainian
+# This file is distributed under the same license as the Themes - SpaBiz package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-01-10 09:09:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Themes - SpaBiz\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "SpaBiz is a beautiful, modern, responsive & stylish Spa Salon WordPress Theme. Designed for Beauty Salon & Massage Parlours, Wellness spa, Haircare Products, Nail Salons, Hairdressers, Barbershops, Health & Wellness Center, Medical Spa, Luxury Spa, Makeup Artists, Healthcare and Cosmetic Shops, Treatment centers, can see, Spabiz is quite a multi-purpose product in a health & beauty area. Checkout Pro Version https://burgerthemes.com/demo/pro/spabiz/"
+msgstr "SpaBiz - це красива, сучасна, чутлива та стильна тема WordPress для спа-салону. Вона призначена для салонів краси та масажу, оздоровлення та спа, засобів по догляду за волоссям, манікюрних салонів, перукарень, барбершопів, оздоровчих центрів, медичного спа, розкішних спа, візажистів, магазинів медичних товарів та косметики, лікувальних центрів. Як бачите, Spabiz є багатоцільовим продуктом в області здоров'я та краси. Ознайомтеся з версією Pro https://burgerthemes.com/demo/pro/spabiz/"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "SpaBiz"
+msgstr "SpaBiz"
+
+#: inc/extras.php:501
+msgid "Get started with SpaBiz"
+msgstr "Розпочати роботу з SpaBiz"
+
+#: inc/extras.php:499
+msgid "Install and activate <strong>Burger Companion</strong> plugin for taking full advantage of all the features this theme has to offer."
+msgstr "Встановити та активувати плагін <strong>Burger Companion</strong> для отримання усіх переваг, що пропонує ця тема."
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/extras.php:495
+msgid "Welcome! Thank you for choosing %1$s!"
+msgstr "Ласкаво просимо! Дякуємо, що обрали %1$s!"
+
+#: inc/extras.php:488
+msgid "Theme Screenshot"
+msgstr "Скріншот теми"
+
+#: inc/customizer/customizer-pro/class-customize.php:76
+msgid "Get More Features in SpaBiz Pro"
+msgstr "Отримати більше функцій у SpaBiz Pro"
+
+#: woocommerce/content-product.php:52
+msgid "out of 5"
+msgstr "з 5"
+
+#: woocommerce/content-product.php:52
+msgid "Rated %s out of 5"
+msgstr "Оцінено на %s з 5"
+
+#: woocommerce/content-product.php:33
+msgid "Sale"
+msgstr "Розпродаж"
+
+#: woocommerce/cart/mini-cart.php:123 woocommerce/cart/mini-cart.php:255
+msgid "No products in the cart."
+msgstr "У кошику немає товарів."
+
+#: woocommerce/cart/mini-cart.php:98 woocommerce/cart/mini-cart.php:230
+msgid "Checkout"
+msgstr "Оформлення"
+
+#: woocommerce/cart/mini-cart.php:57 woocommerce/cart/mini-cart.php:190
+msgid "Remove this item"
+msgstr "Видалити цей товар"
+
+#: woocommerce/cart/mini-cart.php:32 woocommerce/cart/mini-cart.php:165
+msgid "Total:"
+msgstr "Разом:"
+
+#. Template Name of the theme
+msgid "Page Full Width"
+msgstr "Сторінка на повну ширину"
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr "Головна сторінка"
+
+#: template-parts/sections/section-header.php:79
+msgid "Header Above Collapse"
+msgstr "Згортання верху заголовку"
+
+#: template-parts/sections/section-header.php:74
+msgid "Header Close Menu"
+msgstr "Меню закриття заголовку"
+
+#: template-parts/sections/section-header.php:65
+msgid "Menu Collaped"
+msgstr "Згорнуте меню"
+
+#: template-parts/content/content.php:37
+msgid "Pages:"
+msgstr "Сторінки:"
+
+#. translators: %s: Name of current post.
+#: template-parts/content/content.php:32
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Продовжити читання %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content/content-page.php:48
+#: template-parts/content/content-search.php:48
+msgid "Read More"
+msgstr "Читати далі"
+
+#: template-parts/content/content-none.php:18
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Здається, ми не можемо знайти те, що ви шукаєте. Можливо, допоможе пошук."
+
+#: template-parts/content/content-none.php:16
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Вибачте, за вашим запитом нічого не знайдено. Будь ласка, спробуйте інші ключові слова."
+
+#: template-parts/content/content-none.php:14
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готові опублікувати свій перший запис? <a href=\"%1$s\">Почніть звідси</a>."
+
+#: searchform.php:12
+msgid "Search …"
+msgstr "Пошук..."
+
+#: searchform.php:11
+msgid "Search for:"
+msgstr "Шукати:"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:70
+msgid "Edit %s"
+msgstr "Редагувати %s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:63
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Залиште відгук <span class=\"screen-reader-text\"> на %s</span>"
+
+#: inc/template-tags.php:56
+msgid "Tagged %1$s"
+msgstr "Позначено %1$s"
+
+#: inc/template-tags.php:50
+msgid "Posted in %1$s"
+msgstr "Опубліковано у %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:48 inc/template-tags.php:54
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "автор %s"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Оприлюднено у %s "
+
+#: inc/extras.php:397
+msgid "Search Popup Close"
+msgstr "Закриття спливаючого пошуку"
+
+#: inc/extras.php:394
+msgid "Type To Search"
+msgstr "Введіть для пошуку"
+
+#: inc/extras.php:393
+msgid "Site Search"
+msgstr "Пошук по сайту"
+
+#: inc/extras.php:388
+msgid "Search Popup"
+msgstr "Cпливаючий пошук"
+
+#: inc/extras.php:332
+msgid "Page"
+msgstr "Сторінку"
+
+#: inc/extras.php:327
+msgid "Error 404 "
+msgstr "Помилка 404"
+
+#: inc/extras.php:323
+msgid "Articles posted by "
+msgstr "Статті, опубліковані"
+
+#: inc/extras.php:317
+msgid "Posts tagged "
+msgstr "Відмічені записи"
+
+#: inc/extras.php:214
+msgid "Search results for "
+msgstr "Знайти результати для"
+
+#: inc/extras.php:208
+msgid "Archive by category"
+msgstr "Архів за категорією"
+
+#: inc/extras.php:188
+msgid "Home"
+msgstr "Головна"
+
+#: inc/extras.php:186 inc/extras.php:189
+msgid "1"
+msgstr "1"
+
+#: inc/extras.php:154
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+#: inc/extras.php:150
+msgid "Error 404"
+msgstr "Помилка 404"
+
+#: inc/extras.php:146
+msgid "Tag Archives: %s"
+msgstr "Архів теґу:  %s"
+
+#: inc/extras.php:142
+msgid "Category Archives: %s"
+msgstr "Архів категорії: %s"
+
+#: inc/extras.php:138
+msgid "Yearly Archives: %s"
+msgstr "Архів за рік: %s"
+
+#: inc/extras.php:134
+msgid "Monthly Archives: %s"
+msgstr "Архів за місяць: %s"
+
+#: inc/extras.php:130
+msgid "Daily Archives: %s"
+msgstr "Архів за день:  %s"
+
+#: inc/extras.php:92 inc/extras.php:427 woocommerce/cart/mini-cart.php:25
+#: woocommerce/cart/mini-cart.php:111 woocommerce/cart/mini-cart.php:158
+#: woocommerce/cart/mini-cart.php:243
+msgid "0"
+msgstr "0"
+
+#: inc/extras.php:62
+msgid "<a href=\"https://burgerthemes.com/\">Burger Software</a>"
+msgstr "<a href=\"https://burgerthemes.com/\">Burger Software</a>"
+
+#: inc/customizer/customizer-options/spabiz_recommended_plugin.php:18
+msgid "Deactivate"
+msgstr "Вимкнути"
+
+#: inc/customizer/customizer-options/spabiz_recommended_plugin.php:17
+msgid "Activate"
+msgstr "Активувати"
+
+#: inc/customizer/customizer-options/spabiz_recommended_plugin.php:16
+msgid "Install and Activate"
+msgstr "Встановити та активувати"
+
+#: inc/customizer/customizer-options/spabiz_recommended_plugin.php:15
+msgid "Recommended Plugin"
+msgstr "Рекомендований плагін"
+
+#: inc/customizer/customizer-options/spabiz_recommended_plugin.php:14
+msgid "Recommended Actions"
+msgstr "Рекомендовані дії"
+
+#: inc/customizer/customizer-options/spabiz_recommended_plugin.php:10
+msgid "Install and activate <strong>Burger Companion</strong> plugin for taking full advantage of all the features this theme has to offer SpaBiz."
+msgstr "Встановіть та активуйте плагін <strong>Burger Companion</strong>, щоб скористатися всіма перевагами цієї теми для SpaBiz."
+
+#: inc/customizer/customizer-options/spabiz-header.php:211
+#: inc/customizer/customizer-options/spabiz-header.php:230
+msgid "Sticky Header"
+msgstr "Приліплений заголовок"
+
+#: inc/customizer/customizer-options/spabiz-header.php:195
+msgid "Open in New Tab ?"
+msgstr "Відкрити в новій вкладці?"
+
+#: inc/customizer/customizer-options/spabiz-header.php:177
+msgid "Link"
+msgstr "Посилання"
+
+#: inc/customizer/customizer-options/spabiz-header.php:158
+msgid "Label"
+msgstr "Мітка"
+
+#: inc/customizer/customizer-options/spabiz-header.php:120
+msgid "Button"
+msgstr "Кнопка"
+
+#: inc/customizer/customizer-options/spabiz-header.php:82
+msgid "Cart"
+msgstr "Корзина"
+
+#: inc/customizer/customizer-options/spabiz-header.php:43 searchform.php:14
+msgid "Search"
+msgstr "Пошук"
+
+#: inc/customizer/customizer-options/spabiz-header.php:23
+msgid "Header Navigation"
+msgstr "Навігація заголовку"
+
+#: inc/customizer/customizer-options/spabiz-general.php:151
+msgid "Fixed"
+msgstr "Фіксовано"
+
+#: inc/customizer/customizer-options/spabiz-general.php:150
+msgid "Scroll"
+msgstr "Прокручувати"
+
+#: inc/customizer/customizer-options/spabiz-general.php:149
+msgid "Inherit"
+msgstr "Успадкувати"
+
+#: inc/customizer/customizer-options/spabiz-general.php:144
+msgid "Background Attachment"
+msgstr "Фоновий додаток"
+
+#: inc/customizer/customizer-options/spabiz-general.php:85
+msgid "Hide / Show Section"
+msgstr "Приховати / Показати розділ"
+
+#: inc/customizer/customizer-options/spabiz-general.php:66
+msgid "Settings"
+msgstr "Налаштування"
+
+#: inc/customizer/customizer-options/spabiz-general.php:46
+msgid "Breadcrumb Section"
+msgstr "Налаштування хлібних крихт"
+
+#: inc/customizer/customizer-options/spabiz-general.php:35
+msgid "Hide / Show Scroller"
+msgstr "Приховати/Показати прокрутку"
+
+#: inc/customizer/customizer-options/spabiz-general.php:16
+msgid "Top Scroller"
+msgstr "Верхня прокрутка"
+
+#: inc/customizer/customizer-options/spabiz-general.php:7
+msgid "General"
+msgstr "Загальне"
+
+#: inc/customizer/customizer-options/spabiz-footer.php:136
+msgid "Copytight"
+msgstr "Копірайт"
+
+#: inc/customizer/customizer-options/spabiz-footer.php:122
+msgid "Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+msgstr "Права захищено &copy; [current_year] [site_title] | За підтримки [theme_author]"
+
+#: inc/customizer/customizer-options/spabiz-footer.php:116
+msgid "Copyright"
+msgstr "Авторські права"
+
+#: inc/customizer/customizer-options/spabiz-footer.php:96
+msgid "Footer Copyright"
+msgstr "Авторські права в підвалі"
+
+#: inc/customizer/customizer-options/spabiz-footer.php:77
+msgid "Opacity"
+msgstr "Прозорість"
+
+#: inc/customizer/customizer-options/spabiz-footer.php:58
+#: inc/customizer/customizer-options/spabiz-general.php:125
+msgid "Background Image"
+msgstr "Фонове зображення"
+
+#: inc/customizer/customizer-options/spabiz-footer.php:40
+#: inc/customizer/customizer-options/spabiz-general.php:107
+msgid "Background"
+msgstr "Фон"
+
+#: inc/customizer/customizer-options/spabiz-footer.php:20
+msgid "Footer Background"
+msgstr "Фон підвалу"
+
+#: inc/customizer/customizer-options/spabiz-footer.php:10
+msgid "Footer"
+msgstr "Підвал"
+
+#: inc/customizer/customizer-options/spabiz-blog.php:173
+msgid "No of Posts Display"
+msgstr "Кількість записів для відображення"
+
+#: inc/customizer/customizer-options/spabiz-blog.php:154
+msgid "Content"
+msgstr "Вміст"
+
+#: inc/customizer/customizer-options/spabiz-blog.php:133
+msgid "Description"
+msgstr "Опис"
+
+#: inc/customizer/customizer-options/spabiz-blog.php:113
+msgid "Subtitle"
+msgstr "Підзаголовок"
+
+#: inc/customizer/customizer-options/spabiz-blog.php:93
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/customizer/customizer-options/spabiz-blog.php:74
+#: inc/customizer/customizer-options/spabiz-header.php:12
+msgid "Header"
+msgstr "Заголовок"
+
+#: inc/customizer/customizer-options/spabiz-blog.php:54
+#: inc/customizer/customizer-options/spabiz-header.php:61
+#: inc/customizer/customizer-options/spabiz-header.php:100
+#: inc/customizer/customizer-options/spabiz-header.php:138
+#: inc/customizer/customizer-options/spabiz-header.php:247
+msgid "Hide/Show"
+msgstr "Приховати/Показати"
+
+#: inc/customizer/customizer-options/spabiz-blog.php:35
+msgid "Setting"
+msgstr "Налаштування"
+
+#: inc/customizer/customizer-options/spabiz-blog.php:15
+msgid "Blog Section"
+msgstr "Розділ блогу"
+
+#: inc/customizer/customizer-options/spabiz-blog.php:7
+msgid "Frontpage Sections"
+msgstr "Розділ головної сторінки"
+
+#: inc/customizer/customizer-notify/spabiz-notify.php:111
+msgid "Activating"
+msgstr "Активується"
+
+#: inc/class-wp-bootstrap-navwalker.php:366
+msgid "Add a menu"
+msgstr "Додати меню"
+
+#: header.php:17
+msgid "Skip to content"
+msgstr "Перейти до контенту"
+
+#: functions.php:124
+msgid "This Widget area for WooCommerce Widget"
+msgstr "Ця область віджетів для віджету WooCommerce"
+
+#: functions.php:122
+msgid "WooCommerce Widget Area"
+msgstr "Область віджетів WooCommerce"
+
+#: functions.php:114
+msgid "The Footer Widget Area"
+msgstr "Область віджетів підвалу"
+
+#: functions.php:112
+msgid "Footer Widget Area"
+msgstr "Область підвалу"
+
+#: functions.php:104
+msgid "The Primary Widget Area"
+msgstr "Початкова область віджету"
+
+#: functions.php:102
+msgid "Sidebar Widget Area"
+msgstr "Область віджетів бічної панелі"
+
+#: functions.php:39
+msgid "Footer Menu"
+msgstr "Меню підвалу"
+
+#: functions.php:38
+msgid "Primary Menu"
+msgstr "Головне меню"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Коментарі закриті."
+
+#: comments.php:45 comments.php:65
+msgid "Newer Comments"
+msgstr "Новіші коментарі"
+
+#: comments.php:44 comments.php:64
+msgid "Older Comments"
+msgstr "Старіші коментарі"
+
+#: comments.php:41 comments.php:62
+msgid "Comment navigation"
+msgstr "Навігація по коментарях"
+
+#: 404.php:20
+msgid "Back To Home"
+msgstr "Назад на головну"
+
+#: 404.php:19
+msgid "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout"
+msgstr "Давно встановлений факт, що читач буде відволікатися від читабельного вмісту сторінки, дивлячись на її розмітку"
+
+#: 404.php:18
+msgid "Sorry We Couldn't Find That Page"
+msgstr "Вибачте, ми не можемо знайти цю сторінку"
+
+#: 404.php:17
+msgid "4"
+msgstr "4"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://burgerthemes.com/spabiz-free/"
+msgstr "https://burgerthemes.com/spabiz-free/"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://burgerthemes.com/"
+msgstr "https://burgerthemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "burgersoftware"
+msgstr "burgersoftware"

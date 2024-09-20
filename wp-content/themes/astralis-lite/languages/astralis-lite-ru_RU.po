@@ -1,0 +1,449 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Astralis Lite\n"
+"POT-Creation-Date: 2023-01-03 15:20+0530\n"
+"PO-Revision-Date: 2023-02-05 14:28+0200\n"
+"Last-Translator: \n"
+"Language-Team: Grace Themes <support@gracethemes.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;__;_e;gettext;gettext_noop;esc_attr;esc_attr__;"
+"esc_attr_e;esc_html;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:16
+msgid "404 Not Found"
+msgstr "404 Не Найдено"
+
+#: 404.php:19
+msgid ""
+"Looks like you have taken a wrong turn....Dont worry... it happens to the "
+"best of us."
+msgstr ""
+"Похоже, вы свернули не туда... Не волнуйтесь... это случается с лучшими из "
+"нас."
+
+#: comments.php:30
+#, php-format
+msgid "One Comments on &ldquo;%s&rdquo;"
+msgstr "Один комментарий на \"%s\""
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: content-page.php:19 content-search.php:28 content-single.php:25
+#: content.php:53 image.php:56 template-full-width.php:24
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: content-page.php:24 content-search.php:39 content-single.php:35 image.php:30
+#: image.php:62
+msgid "Edit"
+msgstr "Edit"
+
+#: content-single.php:16 content.php:24
+msgid ", "
+msgstr ", "
+
+#: content.php:42
+msgid "Read More"
+msgstr "Читать далее"
+
+#: content.php:50
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Продолжить чтение <span class=\"meta-nav\">&rarr;</span>"
+
+#: customize-pro/class-customize.php:76
+msgid "Upgrade to Pro"
+msgstr "Обновить до Pro"
+
+#: customize-pro/class-customize.php:77
+msgid "Upgrade Now"
+msgstr "Обновить сейчас"
+
+#: footer.php:48
+msgid "Theme by Grace Themes"
+msgstr "Тема Грейс Темы"
+
+#: functions.php:53
+msgid "Primary Menu"
+msgstr "Основное Меню"
+
+#: functions.php:54
+msgid "Footer Menu"
+msgstr "Меню в подвале"
+
+#: functions.php:67
+msgid "Blog Sidebar"
+msgstr "Боковая панель блога"
+
+#: functions.php:68
+msgid "Appears on blog page sidebar"
+msgstr "Появляется на странице блога на боковой панели"
+
+#: functions.php:77
+msgid "Footer Widget 1"
+msgstr "Виджет футера 1"
+
+#: functions.php:78 functions.php:88 functions.php:98 functions.php:108
+msgid "Appears on footer"
+msgstr "Появляется в области подвала"
+
+#: functions.php:87
+msgid "Footer Widget 2"
+msgstr "Виджет футера 2"
+
+#: functions.php:97
+msgid "Footer Widget 3"
+msgstr "Виджет футера 3"
+
+#: functions.php:107
+msgid "Footer Widget 4"
+msgstr "Виджет футера 4"
+
+#: header.php:29
+msgid "Skip to content"
+msgstr "Перейти к контенту"
+
+#: image.php:20
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+"Опубликовано <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> - <a href=\"%3$s\">%4$s &times; %5$s</a> - <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+
+#: image.php:35
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Предыдущий"
+
+#: image.php:36
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Следующий <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/about-themes.php:11 inc/about-themes.php:18
+msgid "About Theme Info"
+msgstr "Информация о теме"
+
+#: inc/about-themes.php:21
+msgid ""
+"Astralis Lite eSports is a popular Esports Gaming WordPress Theme that "
+"specializes in flaunting an extremely impressive appeal for the gaming or "
+"sports industry. It does not matter if you are a sports item manufacturer or "
+"sports item or apparel seller, or just a sports consultancy service "
+"provider; this theme will always help you out. Precisely, this theme will "
+"fulfill your every eSports business needs with ease. Also, you can sell "
+"games with this theme. This is a ready-made solution for the businessmen out "
+"there, and you can get started with it almost immediately. If you are a "
+"newbie or a neophyte user, this is the ideal solution for your business "
+"needs."
+msgstr ""
+"Astralis Lite eSports — популярная тема WordPress для киберспортивных игр, "
+"которая специализируется на выставлении напоказ чрезвычайно впечатляющей "
+"привлекательности для игровой или спортивной индустрии. Неважно, являетесь "
+"ли вы производителем спортивных товаров, продавцом спортивных товаров или "
+"одежды или просто консультируете по спортивным вопросам; эта тема всегда "
+"выручит вас. Именно эта тема с легкостью удовлетворит все ваши потребности в "
+"киберспорте. Также вы можете продавать игры с этой темой. Это готовое "
+"решение для бизнесменов, и вы можете приступить к работе практически сразу. "
+"Если вы новичок или неопытный пользователь, это идеальное решение для нужд "
+"вашего бизнеса."
+
+#: inc/about-themes.php:23
+msgid "Theme Features"
+msgstr "Особенности темы"
+
+#: inc/about-themes.php:26
+msgid "Theme Customizer"
+msgstr "Настройка темы"
+
+#: inc/about-themes.php:27
+msgid ""
+"The built-in customizer panel quickly change aspects of the design and "
+"display changes live before saving them."
+msgstr ""
+"Встроенная панель настройки быстро изменяет аспекты дизайна и отображает "
+"изменения в реальном времени перед их сохранением."
+
+#: inc/about-themes.php:30
+msgid "Responsive Ready"
+msgstr "Отзывчивый Готов"
+
+#: inc/about-themes.php:31
+msgid ""
+"The themes layout will automatically adjust and fit on any screen resolution "
+"and looks great on any device. Fully optimized for iPhone and iPad."
+msgstr ""
+"Макет тем автоматически настраивается и подходит для любого разрешения "
+"экрана и отлично смотрится на любом устройстве. Полностью оптимизирован для "
+"iPhone и iPad."
+
+#: inc/about-themes.php:34
+msgid "Cross Browser Compatible"
+msgstr "Кросс-браузерная совместимость"
+
+#: inc/about-themes.php:35
+msgid ""
+"Our themes are tested in all mordern web browsers and compatible with the "
+"latest version including Chrome,Firefox, Safari, Opera, IE11 and above."
+msgstr ""
+"Наши темы протестированы во всех современных веб-браузерах и совместимы с "
+"последними версиями, включая Chrome, Firefox, Safari, Opera, IE11 и выше."
+
+#: inc/about-themes.php:38
+msgid "E-commerce"
+msgstr "E-commerce"
+
+#: inc/about-themes.php:39
+msgid ""
+"Fully compatible with WooCommerce plugin. Just install the plugin and turn "
+"your site into a full featured online shop and start selling products."
+msgstr ""
+"Полностью совместим с плагином WooCommerce. Просто установите плагин и "
+"превратите свой сайт в полнофункциональный интернет-магазин и начните "
+"продавать товары."
+
+#: inc/about-themes.php:42
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/customizer.php:85
+msgid "Astralis Lite Theme Settings"
+msgstr "Настройки темы Astralis Lite"
+
+#: inc/customizer.php:89
+msgid "Site Layout Settings"
+msgstr "Настройки макета сайта"
+
+#: inc/customizer.php:100
+msgid "Check to Show Box Layout"
+msgstr "Установите флажок, чтобы показать в виде блока"
+
+#: inc/customizer.php:101
+msgid "check for box layout"
+msgstr "проверить расположение коробки"
+
+#: inc/customizer.php:112
+msgid "Color Scheme"
+msgstr "Цветовая схема"
+
+#: inc/customizer.php:125
+msgid "Next Color Options"
+msgstr "Следующие параметры цвета"
+
+#: inc/customizer.php:138
+msgid "Navigation font Color"
+msgstr "Навигационный шрифт Цвет"
+
+#: inc/customizer.php:152
+msgid "Navigation Hover/Active Color"
+msgstr "Цвет Навигация Наведенного/ Активного"
+
+#: inc/customizer.php:161
+msgid "Header Contact Details"
+msgstr "Заголовок Контактная информация"
+
+#: inc/customizer.php:173
+msgid "Enter phone number here"
+msgstr "Укажите номер телефона здесь"
+
+#: inc/customizer.php:184
+msgid "Enter email id here"
+msgstr "Введите адрес электронной почты здесь"
+
+#: inc/customizer.php:195
+msgid "Add facebook link here"
+msgstr "Ссылка на facebook "
+
+#: inc/customizer.php:206
+msgid "Add twitter link here"
+msgstr "Ссылка на twitter"
+
+#: inc/customizer.php:218
+msgid "Add linkedin link here"
+msgstr "Добавьте ссылку на LinkedIn"
+
+#: inc/customizer.php:229
+msgid "Add instagram link here"
+msgstr "Добавьте сюда ссылку на инстаграм"
+
+#: inc/customizer.php:243
+msgid "Check To show Header contact info"
+msgstr "Установите флажок, чтобы показать контактную информацию в заголовке"
+
+#: inc/customizer.php:250
+msgid "Front Slider Settings"
+msgstr "Настройки переднего слайдера"
+
+#: inc/customizer.php:252
+msgid "Default image size for slider is 1400 x 770 pixel."
+msgstr "Размер изображения по умолчанию для слайдера — 1400 x 770 пикселей."
+
+#: inc/customizer.php:264
+msgid "Select page for slide 1:"
+msgstr "Выберите страницу для слайда 1:"
+
+#: inc/customizer.php:276
+msgid "Select page for slide 2:"
+msgstr "Выберите страницу для слайда 2:"
+
+#: inc/customizer.php:288
+msgid "Select page for slide 3:"
+msgstr "Выберите страницу для слайда 3:"
+
+#: inc/customizer.php:299
+msgid "Slider Excerpt length"
+msgstr "Длина фрагмента слайдера"
+
+#: inc/customizer.php:316 inc/customizer.php:328
+msgid "Enter button name here"
+msgstr "Введите здесь название кнопки"
+
+#: inc/customizer.php:340
+msgid "Add button link here"
+msgstr "Добавить ссылку на кнопку здесь"
+
+#: inc/customizer.php:355 inc/customizer.php:450 inc/customizer.php:524
+msgid "Check To Show This Section"
+msgstr "Отметьте, чтобы показать этот раздел"
+
+#: inc/customizer.php:362
+msgid "Fifth Column Services"
+msgstr "Услуги пятой колонны"
+
+#: inc/customizer.php:363
+msgid "Select pages from the dropdown for fifth column services"
+msgstr "Выберите страницы из раскрывающегося списка для услуг пятой колонки."
+
+#: inc/customizer.php:430 inc/customizer.php:492
+msgid "Circle box excerpt length"
+msgstr "Длина выдержки в круглой рамке"
+
+#: inc/customizer.php:457
+msgid "Best Gaming Company Sections"
+msgstr "Разделы лучших игровых компаний"
+
+#: inc/customizer.php:458
+msgid "Select pages from the dropdown for Best Gaming Company sections"
+msgstr ""
+"Выберите страницы из раскрывающегося списка для разделов «Лучшая игровая "
+"компания»."
+
+#: inc/customizer.php:470
+msgid "Enter sub title here"
+msgstr "Введите здесь название"
+
+#: inc/customizer.php:509
+msgid "Enter read more button text"
+msgstr "Введите текст кнопки «Подробнее»"
+
+#: inc/customizer.php:534
+msgid "Blog Posts Settings"
+msgstr "Настройки сообщений блога"
+
+#: inc/customizer.php:538
+msgid "Blog Meta Options"
+msgstr "Мета-параметры блога"
+
+#: inc/customizer.php:548
+msgid "Check to hide post date"
+msgstr "Установите флажок, чтобы скрыть дату сообщения"
+
+#: inc/customizer.php:560
+msgid "Check to hide post category"
+msgstr "Установите флажок, чтобы скрыть категорию сообщений"
+
+#: inc/customizer.php:568
+msgid "Posts Featured image"
+msgstr "Отображать миниатюру записи"
+
+#: inc/customizer.php:578
+msgid "Check to hide post featured image"
+msgstr ""
+"Установите этот флажок, чтобы скрыть избранное изображение в публикации"
+
+#: inc/customizer.php:585
+msgid "Blog Posts Excerpt Settings"
+msgstr "Настройки выдержек сообщений блога"
+
+#: inc/customizer.php:598
+msgid "Excerpt length"
+msgstr "Фиксированная длина"
+
+#: inc/customizer.php:615
+msgid "Posts Content"
+msgstr "Содержимое записей"
+
+#: inc/customizer.php:618
+msgid "Content"
+msgstr "Содержимое"
+
+#: inc/customizer.php:619
+msgid "Excerpt"
+msgstr "Отрывок"
+
+#: inc/customizer.php:620
+msgid "No Excerpt"
+msgstr "Без выдержки"
+
+#: inc/customizer.php:626
+msgid "Posts Single Settings"
+msgstr "Одиночные настройки сообщений"
+
+#: inc/customizer.php:636
+msgid "Check to hide post date from single"
+msgstr "Отметьте, чтобы скрыть дату записи  single"
+
+#: inc/customizer.php:648
+msgid "Check to hide post category from single"
+msgstr "Отметьте, чтобы скрыть категорию записи  single"
+
+#: no-results.php:12
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: no-results.php:17
+msgid "Ready to publish your first post? Get started here."
+msgstr "Готовы опубликовать первую запись? Начните здесь."
+
+#: no-results.php:21
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Извините, но ничто не соответствовало вашим условиям поиска. Пожалуйста, "
+"попытайтесь снова с другими ключевыми словами."
+
+#: no-results.php:26
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Кажется, мы не можем найти то, что вы ищете. Возможно, поиск может помочь."
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: sidebar.php:11
+msgid "Category"
+msgstr "Раздел"
+
+#: sidebar.php:18
+msgid "Archives"
+msgstr "Архивы"
+
+#: sidebar.php:25
+msgid "Meta"
+msgstr "Цвет фона мета записи"

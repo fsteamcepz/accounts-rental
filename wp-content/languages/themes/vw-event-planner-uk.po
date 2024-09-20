@@ -1,0 +1,460 @@
+# Translation of Themes - VW Event Planner in Ukrainian
+# This file is distributed under the same license as the Themes - VW Event Planner package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-06-18 06:56:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Themes - VW Event Planner\n"
+
+#. Theme Name of the theme
+#: inc/block-patterns/block-patterns.php:16 inc/customizer.php:2601
+#, gp-priority: high
+msgid "VW Event Planner"
+msgstr "VW Event Planner"
+
+#: inc/themes-widgets/social-icon.php:85
+msgid "Youtube:"
+msgstr "Youtube:"
+
+#: inc/themes-widgets/social-icon.php:81
+msgid "Tumblr:"
+msgstr "Tumblr:"
+
+#: inc/themes-widgets/social-icon.php:77
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+#: inc/themes-widgets/social-icon.php:73
+msgid "Instagram:"
+msgstr "Instagram:"
+
+#: inc/themes-widgets/social-icon.php:69
+msgid "Linkedin:"
+msgstr "Linkedin:"
+
+#: inc/themes-widgets/social-icon.php:65
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: inc/themes-widgets/social-icon.php:61
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: inc/themes-widgets/about-us-widget.php:56
+#: inc/themes-widgets/contact-us-widget.php:59
+#: inc/themes-widgets/social-icon.php:57
+msgid "Title:"
+msgstr "Назва:"
+
+#: inc/themes-widgets/social-icon.php:11
+msgid "Widget for Social icons section"
+msgstr "Віджет для розділу соціальних мереж"
+
+#: functions.php:96 inc/customizer.php:2602
+msgid "UPGRADE PRO"
+msgstr "Придбати Pro"
+
+#: inc/customizer.php:946
+msgid "Footer"
+msgstr "Підвал"
+
+#: inc/customizer.php:381 inc/customizer.php:2167
+msgid "Show / Hide Slider"
+msgstr "Показати / приховати слайдер"
+
+#: inc/customizer.php:316 inc/customizer.php:1556 inc/customizer.php:2002
+msgid "Add Button Text"
+msgstr "Додайте текст кнопки"
+
+#: inc/customizer.php:303
+msgid "Add Button URL"
+msgstr "Додайте URL кнопки"
+
+#: inc/customizer.php:264
+msgid "Add Email Address"
+msgstr "Додайте поштову адресу"
+
+#: inc/customizer.php:238
+msgid "Add Phone Number"
+msgstr "Додайте номер телефону"
+
+#: inc/customizer.php:46 inc/getstart/getstart.php:120
+msgid "Topbar Settings"
+msgstr "Налаштування верхньої панелі"
+
+#: inc/customizer.php:1875
+msgid "Page Sidebar Layout"
+msgstr "Розташування бічної колонки для сторінки"
+
+#: inc/customizer.php:1865
+msgid "Grid Layout"
+msgstr "Розміщення сіткою"
+
+#: inc/customizer.php:1864
+msgid "Four Columns"
+msgstr "Чотири колонки"
+
+#: inc/customizer.php:1863
+msgid "Three Columns"
+msgstr "Три колонки"
+
+#: inc/customizer.php:1862 inc/customizer.php:1881
+msgid "One Column"
+msgstr "Одна колонка"
+
+#: inc/customizer.php:1856
+msgid "Post Sidebar Layout"
+msgstr "Розташування бічної колонки для запису"
+
+#: inc/customizer.php:1830 inc/getstart/getstart.php:146
+#: inc/getstart/getstart.php:242 inc/getstart/getstart.php:313
+msgid "General Settings"
+msgstr "Загальні налаштування"
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr "Коментарі закриті."
+
+#. translators: %s: post title
+#: comments.php:30
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один коментар до &ldquo;%s&rdquo;"
+
+#: 404.php:17 inc/customizer.php:2004
+msgid "Return to the home page"
+msgstr "Повернутися на головну сторінку"
+
+#. translators: %s: search term
+#: search.php:19 search.php:43 search.php:66 search.php:89 search.php:114
+#: search.php:139 search.php:165
+msgid "Results For: %s"
+msgstr "Результати пошуку: %s"
+
+#: no-results.php:19
+msgid "Back to Home Page"
+msgstr "Назад на домашню сторінку"
+
+#: no-results.php:17
+msgid "Dont worry&hellip it happens to the best of us."
+msgstr "Не хвилюйтеся, це станється з найкращими з нас."
+
+#: inc/customizer.php:2051 no-results.php:14
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Вибачте, але за вашим пошуковим запитом нічого не знайдено. Будь ласка, спробуйте інші ключові слова."
+
+#: no-results.php:12
+msgid "Ready to publish your first post? Get started here."
+msgstr "Готові оприлюднити свій перший запис? Почніть звідси."
+
+#: inc/customizer.php:2037 no-results.php:9
+msgid "Nothing Found"
+msgstr "Нічого не знайдено"
+
+#: functions.php:176
+msgid "Appears on top bar"
+msgstr "З'явиться у верхній панелі"
+
+#: functions.php:166
+msgid "Appears on footer 4"
+msgstr "З'явиться у підвалі 4"
+
+#: functions.php:165
+msgid "Footer Navigation 4"
+msgstr "Навігація підвалу 4"
+
+#: functions.php:156
+msgid "Appears on footer 3"
+msgstr "З'явиться у підвалі 3"
+
+#: functions.php:155
+msgid "Footer Navigation 3"
+msgstr "Навігація підвалу 3"
+
+#: functions.php:146
+msgid "Appears on footer 2"
+msgstr "З'явиться у підвалі 2"
+
+#: functions.php:145
+msgid "Footer Navigation 2"
+msgstr "Навігація підвалу 2"
+
+#: functions.php:136
+msgid "Appears on footer 1"
+msgstr "З'явиться у підвалі 1"
+
+#: functions.php:135
+msgid "Footer Navigation 1"
+msgstr "Навігація підвалу 1"
+
+#: functions.php:125
+msgid "Sidebar 3"
+msgstr "Бічна колонка 3"
+
+#: functions.php:116
+msgid "Appears on page sidebar"
+msgstr "З'явиться на бічній колонці сторінки"
+
+#: functions.php:115
+msgid "Page Sidebar"
+msgstr "Бічна колонка сторінки"
+
+#: functions.php:106 functions.php:126
+msgid "Appears on blog page sidebar"
+msgstr "З'явиться на бічній колонці сторінки блогу"
+
+#: functions.php:105
+msgid "Blog Sidebar"
+msgstr "Бічна колонка блогу"
+
+#: functions.php:60
+msgid "Primary Menu"
+msgstr "Головне меню"
+
+#: sidebar.php:18
+msgid "Meta"
+msgstr "Мета"
+
+#: sidebar.php:12
+msgid "Archives"
+msgstr "Архіви"
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search"
+msgstr "Пошук"
+
+#: woocommerce/checkout/form-checkout.php:52
+msgid "Your order"
+msgstr "Ваше замовлення"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Ви повинні увійти, щоб оформити замовлення."
+
+#: inc/customizer.php:459 inc/customizer.php:1552 inc/customizer.php:1558
+#: template-parts/content-audio.php:75 template-parts/content-gallery.php:64
+#: template-parts/content-image.php:62 template-parts/content-image.php:110
+#: template-parts/content-image.php:157 template-parts/content-video.php:76
+#: template-parts/content.php:62 template-parts/content.php:110
+#: template-parts/content.php:157 template-parts/grid-layout.php:46
+msgid "Read More"
+msgstr "Читати далі"
+
+#: template-parts/image-layout.php:33
+msgid "Edit"
+msgstr "Редагувати"
+
+#: template-parts/image-layout.php:28
+msgid "Pages:"
+msgstr "Сторінки:"
+
+#: template-parts/single-post-layout.php:71
+msgid "Previous post:"
+msgstr "Попередній запис:"
+
+#: page-template/custom-home-page.php:66
+msgid "Previous"
+msgstr "Назад"
+
+#: template-parts/single-post-layout.php:68
+msgid "Next post:"
+msgstr "Наступний запис:"
+
+#: page-template/custom-home-page.php:70
+msgid "Next"
+msgstr "Далі"
+
+#: template-parts/single-post-layout.php:62
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Оприлюднено в</span><span class=\"post-title\">%title</span>"
+
+#: template-parts/content-audio.php:51 template-parts/content-gallery.php:40
+#: template-parts/content-image.php:38 template-parts/content-image.php:86
+#: template-parts/content-image.php:133 template-parts/content-video.php:52
+#: template-parts/content.php:38 template-parts/content.php:86
+#: template-parts/content.php:133 template-parts/grid-layout.php:33
+#: template-parts/single-post-layout.php:29
+msgid "% Comments"
+msgstr "Коментарів: %"
+
+#: template-parts/content-audio.php:51 template-parts/content-gallery.php:40
+#: template-parts/content-image.php:38 template-parts/content-image.php:86
+#: template-parts/content-image.php:133 template-parts/content-video.php:52
+#: template-parts/content.php:38 template-parts/content.php:86
+#: template-parts/content.php:133 template-parts/grid-layout.php:33
+#: template-parts/single-post-layout.php:29
+msgid "0 Comments"
+msgstr "0 коментарів"
+
+#: template-parts/content-audio.php:51 template-parts/content-gallery.php:40
+#: template-parts/content-image.php:38 template-parts/content-image.php:86
+#: template-parts/content-image.php:133 template-parts/content-video.php:52
+#: template-parts/content.php:38 template-parts/content.php:86
+#: template-parts/content.php:133 template-parts/grid-layout.php:33
+#: template-parts/single-post-layout.php:29
+msgid "0 Comment"
+msgstr "0 коментарів"
+
+#: image.php:34 image.php:61 image.php:87 image.php:113 image.php:141
+#: image.php:171 image.php:198 single.php:39 single.php:71 single.php:102
+#: single.php:133 single.php:166 single.php:201 single.php:233
+msgid "Page"
+msgstr "Сторінка"
+
+#: image.php:33 image.php:60 image.php:86 image.php:112 image.php:140
+#: image.php:170 image.php:197 single.php:38 single.php:70 single.php:101
+#: single.php:132 single.php:165 single.php:200 single.php:232
+msgid "Next page"
+msgstr "Наступна сторінка"
+
+#: image.php:32 image.php:59 image.php:85 image.php:111 image.php:139
+#: image.php:169 image.php:196 single.php:37 single.php:69 single.php:100
+#: single.php:131 single.php:164 single.php:199 single.php:231
+msgid "Previous page"
+msgstr "Попередня сторінка"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s коментар до &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s коментарі до &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s коментарів до &ldquo;%2$s&rdquo;"
+
+#: page-template/custom-home-page.php:51
+msgid "READ MORE"
+msgstr "ЧИТАТИ ДАЛІ"
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "Шукати"
+
+#. Template Name of the theme
+msgid "Custom Home Page"
+msgstr "Користувацька домашня сторінка"
+
+#: functions.php:457
+msgid "Event Planner WordPress Theme "
+msgstr "WordPress тема Event Planner"
+
+#: functions.php:175
+msgid "Top Bar Social Media"
+msgstr "Верхня панель соціальних мереж"
+
+#: inc/customizer.php:1857
+msgid "Here you can change the sidebar layout for posts. "
+msgstr "Тут ви можете змінити макет бічної панелі для записів."
+
+#: inc/customizer.php:1876
+msgid "Here you can change the sidebar layout for pages. "
+msgstr "Тут ви можете змінити макет бічної панелі для сторінок."
+
+#: inc/customizer.php:370
+msgid "Slider Section"
+msgstr "Розділ слайдеру"
+
+#: inc/customizer.php:170
+msgid "Show / Hide Search"
+msgstr "Показати / приховати пошук"
+
+#: inc/customizer.php:318
+msgid "Book Now"
+msgstr "Забронювати зараз"
+
+#: inc/customizer.php:305
+msgid "www.example.com"
+msgstr "www.example.com"
+
+#: inc/customizer.php:292
+msgid "Mon to Fri 8:00am - 9:00pm "
+msgstr "Пн - Пт з 8:00 - 21:00 "
+
+#: inc/customizer.php:290
+msgid "Add Open Timming"
+msgstr "Додайте часи роботи"
+
+#: inc/customizer.php:266
+msgid "example@gmail.com"
+msgstr "example@gmail.com"
+
+#: inc/customizer.php:240
+msgid "+00 987 654 1230"
+msgstr "+00 987 654 1230"
+
+#: inc/customizer.php:1029
+msgid "Copyright 2019, ....."
+msgstr "Авторське право 2019, ....."
+
+#: inc/customizer.php:1027
+msgid "Copyright Text"
+msgstr "Авторське право"
+
+#: inc/customizer.php:687
+msgid "Image Size (533 x 333)"
+msgstr "Розмір зображення (533 x 333)"
+
+#: inc/customizer.php:686
+msgid "Select Category to display Event Services"
+msgstr "Оберіть категорію для відображення служб подій"
+
+#: inc/customizer.php:661
+msgid "Lorem Ipsum has been the industrys standard dummy text ever since the 1500s.s"
+msgstr "Lorem Ipsum був стандартним текстом у галузі, з 1500s.s"
+
+#: inc/customizer.php:659
+msgid "Add Section Text"
+msgstr "Додайте текст розділу"
+
+#: inc/customizer.php:646
+msgid "Add Section Title"
+msgstr "Додайте заголовок розділу"
+
+#: inc/customizer.php:629 inc/customizer.php:648 inc/getstart/getstart.php:123
+msgid "Best Event Services"
+msgstr "Найкращі служби подій"
+
+#: inc/customizer.php:423
+msgid "Slider image size (1500 x 590)"
+msgstr "Розмір зображення слайдеру (1500 x 590)"
+
+#: inc/customizer.php:422
+msgid "Select Slider Page"
+msgstr "Оберіть сторінку слайдеру"
+
+#: inc/customizer.php:1860 inc/customizer.php:1879 inc/customizer.php:2257
+#: inc/customizer.php:2286
+msgid "Left Sidebar"
+msgstr "Ліва бічна колонка"
+
+#: inc/customizer.php:1861 inc/customizer.php:1880 inc/customizer.php:2258
+#: inc/customizer.php:2287
+msgid "Right Sidebar"
+msgstr "Права бічна колонка"
+
+#: inc/getstart/getstart.php:218 inc/getstart/getstart.php:289
+msgid "Social Icons"
+msgstr "Соціальні іконки"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.vwthemes.com/"
+msgstr "https://www.vwthemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "VW Themes"
+msgstr "VW Themes"
+
+#. Theme URI of the theme
+#: functions.php:453
+#, gp-priority: low
+msgid "https://www.vwthemes.com/themes/free-event-planner-wordpress-theme/"
+msgstr "https://www.vwthemes.com/themes/free-event-planner-wordpress-theme/"
